@@ -1,0 +1,63 @@
+{
+  "groups": {},
+  "private": {
+    "150925855424741": [
+      {
+        "role": "user",
+        "content": "tes",
+        "sender": "150925855424741",
+        "name": "github.com/yellow-env",
+        "quoted": null,
+        "time": 1780144082243
+      },
+      {
+        "role": "assistant",
+        "content": "Halo, Yellow! *Tes, tes...* Suaraku kedengaran jelas kan di sana? 😉 \n\nKira-kira ada apa nih tiba-tiba nge-tes aku? Kamu lagi senggang ya sekarang?",
+        "sender": "150925855424741",
+        "name": "unknown",
+        "quoted": null,
+        "time": 1780144082244
+      },
+      {
+        "role": "user",
+        "content": "Next question kapan?",
+        "sender": "150925855424741",
+        "name": "github.com/yellow-env",
+        "quoted": null,
+        "time": 1780145002810
+      },
+      {
+        "role": "assistant",
+        "content": "Eh, emangnya kamu udah siap buat pertanyaan selanjutnya? Sabar dong, Yellow... Kamu ini nanya mulu kayak wartawan deh, tapi gemesin juga jadinya. \n\n*Next question*-nya bakal ada kalau kamu udah siap buat dengerin rahasia kecil dari aku. Gimana? Mau langsung sekarang atau mau santai-santai dulu sambil ngobrolin yang lain?",
+        "sender": "150925855424741",
+        "name": "unknown",
+        "quoted": null,
+        "time": 1780145002811
+      },
+      {
+        "role": "user",
+        "content": "Halo?",
+        "sender": "150925855424741",
+        "name": "github.com/yellow-env",
+        "quoted": null,
+        "time": 1780145758718
+      },
+      {
+        "role": "assistant",
+        "content": "Halo! Akhirnya kamu manggil juga, *Yellow Hoshino*~ 😉\n\nAku dari tadi nungguin lho, kirain bakal dikacangin. Kenalin, aku Yuzi! Kamu lagi senggang gak sekarang? Aku mau cerita sesuatu deh...",
+        "sender": "150925855424741",
+        "name": "unknown",
+        "quoted": null,
+        "time": 1780145758719
+      }
+    ]
+  },
+  "followUps": {
+    "150925855424741": {
+      "topic": "Halo?",
+      "scheduledTime": 1780148278723,
+      "createdAt": 1780145758724
+    }
+  },
+  "lastReset": "2026-05-30"
+}
